@@ -1,0 +1,8 @@
+Hackerone Report:
+https://hackerone.com/reports/845832
+https://hackerone.com/reports/97501
+https://hackerone.com/reports/142709
+
+Resources:
+https://qy.sg/x-ctf-finals-2016-john-slick-web-25/
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection#xxe-inside-svg
